@@ -1,4 +1,4 @@
-const Client = require('./Struct/NoteClient');
+const Client = require('./Struct/Client');
 
 const client = new Client();
 
