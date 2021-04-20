@@ -1,9 +1,9 @@
 {
   "name": "noteblock",
-  "version": "1.1.0",
-  "description": "A music discord bot",
+  "version": "0.1.0",
+  "description": "A discord bot",
   "main": "src/main",
-  "repository": "https://github.com/KagChi/noteblock.git",
+  "repository": "https://github.com/KagChi/discord-akairo-bot-template.git",
   "author": "KagChi",
   "license": "GPL-3.0",
   "private": true,
